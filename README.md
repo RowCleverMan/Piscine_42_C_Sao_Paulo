@@ -1,4 +1,5 @@
 # Piscine C from Sao Paulo Brasil
-## Forty-two, said Deep Thought, with infinite majesty and calm.
+## Tips
+*Do not spend too much time on C00 & C01
 
 ![Image Mark](PDF/IMG/mark.png)
