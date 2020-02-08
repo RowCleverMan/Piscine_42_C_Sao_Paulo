@@ -112,4 +112,3 @@ int		check_end_of_row(int *matrix, int *clues, int size, int cursor)
 	}
 	return (0);
 }
-
