@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_fibonacci.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: robitett <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: romanbtt <marvin@student.42sp.org.br>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/11/29 20:55:05 by robitett          #+#    #+#             */
-/*   Updated: 2019/12/09 13:00:04 by robitett         ###   ########.fr       */
+/*   Created: 2020/11/15 16:55:20 by romanbtt          #+#    #+#             */
+/*   Updated: 2020/11/15 16:55:34 by romanbtt         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
+
 
 int		ft_fibonacci(int index)
 {

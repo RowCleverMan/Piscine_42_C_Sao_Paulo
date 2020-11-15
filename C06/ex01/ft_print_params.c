@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_params.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: robitett <robitett@student.42sp.org>       +#+  +:+       +#+        */
+/*   By: romanbtt <marvin@student.42sp.org.br>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/11/28 19:46:04 by robitett          #+#    #+#             */
-/*   Updated: 2019/11/28 21:39:54 by robitett         ###   ########.fr       */
+/*   Created: 2020/11/15 16:56:18 by romanbtt          #+#    #+#             */
+/*   Updated: 2020/11/15 16:56:28 by romanbtt         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
