@@ -1,0 +1,5 @@
+Credentials cache: API:13E12D36-5F4B-408C-95AB-7CE69AC939DE
+        Principal: marvin@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 19 12:28:48 2019  Nov 26 12:28:48 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
